@@ -6,7 +6,7 @@ This is my finals Project for my Java class.
 This is a game a skills test to see how well you can remember where the letters are.
 Ive made it a little difficult so you would have to really think and remember where 
 you last saw the letter.
-
+Screen Shot 2020-06-26 at 12.22.27 PM
 
 # How it works:
 The game is very simple to do but a litte difficult to beat.
