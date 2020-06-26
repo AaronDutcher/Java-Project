@@ -1,13 +1,9 @@
-# Tic-Tac-Toe
+# Memory Tester
 
 
 This is my finals Project for my Java class.
 
-This is your regular style Tic-Tac-Toe. All you need
-
-is 3 in a row and you win. If no one can get 3 in a
-
-row then its a draw.
+This is a game
 
 
 # How it works:
