@@ -32,6 +32,10 @@ import javafx.util.Duration;
 
 public class MemoryTester extends Application {
 
+	public static void main(String[] args) {
+        launch(args);
+    }
+	
     //getting the number of pairs to match with the number of rows
 	private  int numPairs = 28;
     private  int numRows = 7;
@@ -144,9 +148,5 @@ public class MemoryTester extends Application {
         public boolean hasSameValue(Tile other) {
             return text.getText().equals(other.text.getText());
         }
-    }
-
-    public static void main(String[] args) {
-        launch(args);
     }
 }
