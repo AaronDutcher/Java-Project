@@ -6,9 +6,10 @@ This is my finals Project for my Java class.
 This is a game a skills test to see how well you can remember where the letters are.
 Ive made it a little difficult so you would have to really think and remember where 
 you last saw the letter.
-![](game images/Screen Shot 2020-06-26 at 12.22.27 PM.png)
 
-# How it works:
+<img src="game images/Screen Shot 2020-06-26 at 12.22.27 PM.png">
+
+### How it works:
 The game is very simple to do but a litte difficult to beat.
 All you have to do is start clicking on the tile and you will 
 see a letter pop up. Now all you have to do is try and find its matching tile.
