@@ -7,7 +7,7 @@ This is a game a skills test to see how well you can remember where the letters 
 Ive made it a little difficult so you would have to really think and remember where 
 you last saw the letter.
 
-<img src="game images/Screen Shot 2020-06-26 at 12.22.27 PM.png" width=300>
+<img src="game images/game-board.png" width=300>
 
 ### How it works:
 The game is very simple to do but a litte difficult to beat.
